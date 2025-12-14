@@ -1,3 +1,5 @@
+Video URL: https://www.youtube.com/watch?v=PFmuCDHHpwk
+
 What is oop?
 a programming paradigm centered around objects rather than functions.
 
@@ -78,6 +80,7 @@ filter out keys, all are returned
 What does closure mean(in functions)?
 a child function can access the parent function's variables,
 even after the parent has finished executing.
+
 
 
 
