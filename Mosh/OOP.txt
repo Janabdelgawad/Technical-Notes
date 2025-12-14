@@ -1,0 +1,88 @@
+What is oop?
+a programming paradigm centered around objects rather than functions.
+
+Is oop a programming language/tool?
+no, it is a programming style/paradigm
+
+what are the 4 pillars of oop?
+encapsulation, abstraction, polymorphism, inheritance
+
+what was programming paradigm was prevelant before oop?
+procedural programming paradigm
+
+what is procedural programming paradigm?
+a program written as a sequence of procedures(functions) that operate on data
+
+what problem did oop solve from procedural?
+redundency, data & functions are grouped together (that group is called an object)
+
+instead of data/variables & functions, what are they called in oop?
+properties & methods
+
+what is an indicator a function is using procedural not oop?
+function has multiple parameters
+
+What is polymorphism?
+a mechanism to refactor long control-flow statements
+
+What is encapsulation?
+a mechanism to regroup related properties & methods
+
+What is Abstraction
+a mechanism to hide the details and complexity
+
+What is inheritance?
+a mechanism to eliminate redundant code
+
+What is an object?
+a collection of key-value pairs
+
+When is creating an object with literal syntax an issue?
+when an object has behaviour (methods)
+
+What is the solution to creating an object with literal syntax?
+creating an object through a factory or constructor function
+
+If a function returns an objects it's referred to as?
+a factory function
+
+If a function uses the 'this' keyword & 'new' operator it's referred to as?
+a constructor function
+
+Every object has a _ _ _ _ property, it references the _ _ _ _ _ _ _ __ _ _ _ _ .
+constructor, function used to create the object
+
+What is the type of a function in javascript?
+an object (has properties & methods)
+
+What are the 6 Primitives/Value Types?
+Number, Boolean, String, Symbol, undefined, null
+
+What are the 3 Reference Types?
+Object, Function, Array
+
+How are Primitives vs Objects copied?
+primitives copied by value
+objects    copied by reference
+
+When to use Bracket notation when accessing a property?
+property name is dynamic (configured at runtime),
+name has whitespaces or special characters
+
+What does Object.keys(your_object) return?
+all keys in your_object as an Array
+
+What can't you do with this approach "Object.keys(your_object)"?
+filter out keys, all are returned
+
+What does closure mean(in functions)?
+a child function can access the parent function's variables,
+even after the parent has finished executing.
+
+
+
+
+
+
+
+
